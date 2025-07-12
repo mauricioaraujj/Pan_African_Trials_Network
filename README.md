@@ -22,6 +22,10 @@ This repository contains a comprehensive dataset and full analysis pipeline for 
 - Includes environmental covariates for enviromics
 - Facilitates genotype × environment × management (G×E×M) modeling and recommendation
 
+
+![Overview](figures/Fig (2).jpg)
+
+
 ---
 
 ## 📁 Repository Structure
