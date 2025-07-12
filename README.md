@@ -105,8 +105,7 @@ Below are scientific publications **originated from the Pan-African soybean tria
 
 ## 📘 Citation
 
-> Araújo, M.S., Chaves, S.F.S., Ferreira, G.N.C., Chigeza, G., Diers, B.W., Leles, E.P., Santos, M.F., Goldsmith, P., Pinheiro, J.B.  
-> **High-resolution soybean trial data supporting the expansion of agriculture in Africa** (2025)
+> Araújo, M.S., Chaves, S.F.S., Ferreira, G.N.C., Chigeza, G., Diers, B.W., Leles, E.P., Santos, M.F., Goldsmith, P., Pinheiro, J.B. **High-resolution soybean trial data supporting the expansion of agriculture in Africa** (2025)
 
 ---
 
