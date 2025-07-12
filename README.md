@@ -88,20 +88,17 @@ Includes R scripts to run and reproduce the analysis:
 
 Below are scientific publications derived from the Pan-African soybean trials:
 
-<p align="center">
-  <a href="metadata/publication1.pdf">
-    <img src="figures/pub1.png" alt="Publication 1" width="180"/>
-  </a>
-  <a href="metadata/publication2.pdf">
-    <img src="figures/pub2.png" alt="Publication 2" width="180"/>
-  </a>
-  <a href="metadata/publication3.pdf">
-    <img src="figures/pub3.png" alt="Publication 3" width="180"/>
-  </a>
-  <a href="metadata/publication4.pdf">
-    <img src="figures/pub4.png" alt="Publication 4" width="180"/>
-  </a>
-</p>
+- [📄 Evaluating genetic diversity and seed composition stability within Pan-African trials](https://doi.org/10.1002/csc2.21356)  
+  *Crop Science (2023)*
+
+- [📄 Soybean rust resistant and tolerant varieties identified through the Pan African trials](https://doi.org/10.3390/agronomy11061043)  
+  *Agronomy (2021)*
+
+- [📄 Optimizing soybean variety selection for the Pan African Trial network using G×E models](https://doi.org/10.3389/fpls.2025.1594736)  
+  *Frontiers in Plant Science (2025)*
+
+- [📄 Implementation of a GAM for Soybean Maturity modeling](https://doi.org/10.1002/ps.8639)  
+  *Pest Management Science (2025)*
 
 ---
 
