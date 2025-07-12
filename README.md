@@ -1,21 +1,28 @@
-# Pan_African_Trials_Network 🚀🌱  
+# Pan_African_Trials_Network 🌍🌱  
 **High-resolution soybean trial data supporting the expansion of agriculture in Africa**
 
-Mauricio S. Araújo¹\*, Saulo F.S. Chaves², Gerson N.C. Ferreira¹, Godfree Chigeza³, Brian W. Diers⁴, Erica P. Leles⁴, Michelle F. Santos⁴, Peter Goldsmith⁴, José B. Pinheiro¹\*  
-
-¹ Department of Genetics, University of São Paulo, Genetics Diversity and Breeding Laboratory, Piracicaba - SP, Brazil
-
-² Department of Genetics, University of São Paulo, Genomics, Analytics and Breeding Laboratory, Piracicaba - SP, Brazil 
-
-³ Feed the Future Innovation Lab, University of Illinois Urbana-Champaign, United States Agency for International Development (USAID), Washington, DC, United States 
-
-⁴ Department of Crop Sciences, University of Illinois at Urbana-Champaign, Urbana, 61801, USA 
-
-\*mauricioaraujj@usp.br and jbaldin@usp.br
+![badges](https://img.shields.io/badge/Scientific-Data-blue) 
+![badges](https://img.shields.io/badge/Funding-USAID-yellow) 
+![badges](https://img.shields.io/badge/Trials-292%20across%2021%20countries-green) 
+![badges](https://img.shields.io/badge/Years-2015--2024/25-blueviolet) 
+![badges](https://img.shields.io/badge/Modeling-FA%2BPLS-red)
 
 ---
 
-## 🔎 Overview
+## 👩‍🔬 Authors
+
+Mauricio S. Araújo¹\*, Saulo F.S. Chaves², Gerson N.C. Ferreira¹, Godfree Chigeza³, Brian W. Diers⁴, Erica P. Leles⁴, Michelle F. Santos⁴, Peter Goldsmith⁴, José B. Pinheiro¹\*  
+
+¹ Department of Genetics, University of São Paulo, Genetics Diversity and Breeding Laboratory, Piracicaba - SP, Brazil  
+² Department of Genetics, University of São Paulo, Genomics, Analytics and Breeding Laboratory, Piracicaba - SP, Brazil  
+³ Feed the Future Innovation Lab, University of Illinois Urbana-Champaign, United States Agency for International Development (USAID), Washington, DC, United States  
+⁴ Department of Crop Sciences, University of Illinois at Urbana-Champaign, Urbana, 61801, USA  
+
+📧 *mauricioaraujj@usp.br and jbaldin@usp.br*
+
+---
+
+## 🧭 Project Overview
 
 This repository contains a comprehensive dataset and full analysis pipeline for understanding soybean cultivar responses to diverse African agroecologies using multi-environment trials (METs) from 2015 to 2024/25.
 
@@ -26,14 +33,17 @@ This repository contains a comprehensive dataset and full analysis pipeline for 
 - Includes environmental covariates for enviromics
 - Facilitates genotype × environment × management (G×E×M) modeling and recommendation
 
+---
+
+## 🗺️ Graphical Overview
+
+The figure below summarizes the core pipeline, from trials to prediction and recommendation:
 
 ![Overview](figures/fig.jpg)
 
-
-
 ---
 
-## 📁 Repository Structure
+## 📂 Repository Structure
 
 | Folder/File       | Description |
 |-------------------|-------------|
@@ -48,65 +58,58 @@ This repository contains a comprehensive dataset and full analysis pipeline for 
 
 ---
 
-## 📊 Data Preview
-
-> **Directory:** [`/data`](./data)
-
-Contains:
-- `Malawi_data.csv`: Raw data for trials in Malawi  
-- `Covamb.csv`, `Weather.csv`, `Soil.csv`, `Elevation.csv`: Environmental variables  
-- `bioclimatic.csv`: Bioclimatic features from WorldClim  
-- `coords.txt`: Latitude/longitude of sites  
-- `data.csv`: Cleaned dataset used in most analyses
-
----
-
 ## 🧬 Scripts
 
 > **Directory:** [`/scripts`](./scripts)
 
-Includes well-documented R scripts:
-- `Fa_Model.R`, `PLS.R`: FA modeling and regression
-- `LRT.R`, `Residual.R`, `Outliers.R`: Model testing and diagnostics
-- `SoilData.R`, `weather.R`, `altitude.R`, `worldclim.R`: Environmental data processing
-- `boxplot.R`, `Map.R`, `country_conn.R`, `Water_regime.R`: Visualization and spatial analysis
+Includes R scripts to run and reproduce the analysis:
+- `Fa_Model.R`, `PLS.R` – Modeling
+- `Outliers.R`, `Residual.R`, `LRT.R` – Diagnostics
+- `Map.R`, `boxplot.R`, `country_conn.R` – Visualization
+- `weather.R`, `worldclim.R`, `SoilData.R` – Envirotyping tools
 
 ---
 
-## 🖼️ Figures
+## 📊 Data Summary
 
-> **Directory:** [`/figures`](./figures)
+> **Directory:** [`/data`](./data)
 
-Includes plots for:
-- Genetic correlation and heritability (`Correlation.pdf`, `H2.pdf`)
-- Boxplots by genotype (`boxplot.pdf`)
-- Environmental elevation map (`Elevation.pdf`)
-- FA summaries (`fast.pdf`, `sPLS.pdf`)
-- Geographic figures (`mappp.png`)
-- Example JPEG image (`Fig (2).jpg`)
+- `Malawi_data.csv`: Trial data from Malawi  
+- `Covamb.csv`, `Weather.csv`, `Soil.csv`, `Elevation.csv`: Environmental variables  
+- `bioclimatic.csv`: WorldClim bioclimatic data  
+- `coords.txt`: Geographic coordinates  
+- `data.csv`: Full cleaned dataset used in the models
 
 ---
 
-## 📚 Metadata / Publications
+## 📖 Previous Publications
 
 > **Directory:** [`/metadata`](./metadata)
 
-Published research using this dataset:
-- *Evaluating genetic diversity and seed composition stability within Pan-African trials*
-- *Soybean rust resistant and tolerant varieties identified through the Pan African trials*
-- *Optimizing soybean variety selection for the Pan African Trial network using G×E models*
-- *Implementation of a GAM for Soybean Maturity modeling*
+Here are scientific publications derived from the Pan-African soybean trials:
+
+| Publication | Thumbnail |
+|-------------|-----------|
+| *Evaluating genetic diversity and seed composition stability within Pan-African trials* | ![pub1](figures/pub1.png) |
+| *Soybean rust resistant and tolerant varieties identified through the Pan African trials* | ![pub2](figures/pub2.png) |
+| *Optimizing soybean variety selection for the Pan African Trial network using G×E models* | ![pub3](figures/pub3.png) |
+| *Implementation of a GAM for Soybean Maturity modeling* | ![pub4](figures/pub4.png) |
+
+> *Note: Please upload the thumbnails as `pub1.png`, `pub2.png`, etc. inside `/figures`.*
 
 ---
 
-## 💡 Suggested Citation
+## 📘 Citation
 
 > Araújo, M.S., Chaves, S.F.S., Ferreira, G.N.C., Chigeza, G., Diers, B.W., Leles, E.P., Santos, M.F., Goldsmith, P., Pinheiro, J.B.  
-> High-resolution soybean trial data supporting the expansion of agriculture in Africa. (2025)  
+> **High-resolution soybean trial data supporting the expansion of agriculture in Africa** (2025)
 
 ---
 
-## 📩 Contact
+## 📬 Contact
 
-Feel free to reach out to us for collaboration, questions, or feedback:  
-📧 mauricioaraujj@usp.br | jbaldin@usp.br
+Have questions, want to collaborate, or found a bug?  
+Feel free to contact:
+
+📧 *mauricioaraujj@usp.br*  
+📧 *jbaldin@usp.br*
