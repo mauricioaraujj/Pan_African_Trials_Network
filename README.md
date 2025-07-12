@@ -82,20 +82,26 @@ Includes R scripts to run and reproduce the analysis:
 
 ---
 
-## 📖 Previous Publications
+## 📚 Previous Publications
 
 > **Directory:** [`/metadata`](./metadata)
 
-Here are scientific publications derived from the Pan-African soybean trials:
+Below are scientific publications derived from the Pan-African soybean trials:
 
-| Publication | Thumbnail |
-|-------------|-----------|
-| *Evaluating genetic diversity and seed composition stability within Pan-African trials* | ![pub1](figures/pub1.png) |
-| *Soybean rust resistant and tolerant varieties identified through the Pan African trials* | ![pub2](figures/pub2.png) |
-| *Optimizing soybean variety selection for the Pan African Trial network using G×E models* | ![pub3](figures/pub3.png) |
-| *Implementation of a GAM for Soybean Maturity modeling* | ![pub4](figures/pub4.png) |
-
-> *Note: Please upload the thumbnails as `pub1.png`, `pub2.png`, etc. inside `/figures`.*
+<div align="center">
+  <a href="metadata/Evaluating genetic diversity and seed composition stability within Pan-African trials.pdf">
+    <img src="figures/pub1.png" alt="Publication 1" width="180" style="margin-right: 10px;"/>
+  </a>
+  <a href="metadata/Soybean rust resistant and tolerant varieties identified through the Pan African trials.pdf">
+    <img src="figures/pub2.png" alt="Publication 2" width="180" style="margin-right: 10px;"/>
+  </a>
+  <a href="metadata/Optimizing soybean variety selection for the Pan African Trial network using GxE models.pdf">
+    <img src="figures/pub3.png" alt="Publication 3" width="180" style="margin-right: 10px;"/>
+  </a>
+  <a href="metadata/Implementation of a Generalized Additive Model (GAM) for Soybean Maturity modeling.pdf">
+    <img src="figures/pub4.png" alt="Publication 4" width="180"/>
+  </a>
+</div>
 
 ---
 
