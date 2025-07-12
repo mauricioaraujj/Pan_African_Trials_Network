@@ -95,7 +95,7 @@ Below are scientific publications **originated from the Pan-African soybean tria
   *Pest Management Science (2025)*
 
 - [📄 Evaluating genetic diversity and seed composition stability within Pan-African trials](https://doi.org/10.1002/csc2.21356)  
-  *Crop Science (2023)*
+  *Crop Science (2024)*
 
 - [📄 Soybean rust resistant and tolerant varieties identified through the Pan African trials](https://doi.org/10.3390/agronomy11061043)  
   *Agronomy (2021)*
