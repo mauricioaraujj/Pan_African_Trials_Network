@@ -3,10 +3,10 @@
 
 **Authors**:  
 Mauricio S. Araújo¹\*, Saulo F.S. Chaves², Gerson N.C. Ferreira¹, Godfree Chigeza³, Brian W. Diers⁴, Erica P. Leles⁴, Michelle F. Santos⁴, Peter Goldsmith⁴, José B. Pinheiro¹\*  
-¹ Department of Genetics, University of São Paulo, Brazil  
-² Genomics, Analytics and Breeding Laboratory, University of São Paulo, Brazil  
-³ Feed the Future Innovation Lab, USAID  
-⁴ Department of Crop Sciences, University of Illinois at Urbana-Champaign, USA  
+¹ Department of Genetics, University of São Paulo, Genetics Diversity and Breeding Laboratory, Piracicaba - SP, Brazil  
+² Department of Genetics, University of São Paulo, Genomics, Analytics and Breeding Laboratory, Piracicaba - SP, Brazil  
+³ Feed the Future Innovation Lab, University of Illinois Urbana-Champaign, United States Agency for International Development (USAID), Washington, DC, United States 
+⁴ Department of Crop Sciences, University of Illinois at Urbana-Champaign, Urbana, 61801, USA 
 \*mauricioaraujj@usp.br and jbaldin@usp.br
 
 ---
