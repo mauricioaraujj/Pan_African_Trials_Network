@@ -23,7 +23,8 @@ This repository contains a comprehensive dataset and full analysis pipeline for 
 - Facilitates genotype × environment × management (G×E×M) modeling and recommendation
 
 
-![Overview](figures/Fig (2).jpg)
+![Overview](figures/overview.jpg)
+
 
 
 ---
