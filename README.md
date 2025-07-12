@@ -1,7 +1,6 @@
 # Pan_African_Trials_Network 🚀🌱  
 **High-resolution soybean trial data supporting the expansion of agriculture in Africa**
 
-**Authors**:  
 Mauricio S. Araújo¹\*, Saulo F.S. Chaves², Gerson N.C. Ferreira¹, Godfree Chigeza³, Brian W. Diers⁴, Erica P. Leles⁴, Michelle F. Santos⁴, Peter Goldsmith⁴, José B. Pinheiro¹\*  
 
 ¹ Department of Genetics, University of São Paulo, Genetics Diversity and Breeding Laboratory, Piracicaba - SP, Brazil
