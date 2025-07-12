@@ -88,20 +88,20 @@ Includes R scripts to run and reproduce the analysis:
 
 Below are scientific publications derived from the Pan-African soybean trials:
 
-<div align="center">
-  <a href="metadata/Evaluating genetic diversity and seed composition stability within Pan-African trials.pdf">
-    <img src="figures/pub1.png" alt="Publication 1" width="180" style="margin-right: 10px;"/>
+<p align="center">
+  <a href="metadata/publication1.pdf">
+    <img src="figures/pub1.png" alt="Publication 1" width="180"/>
   </a>
-  <a href="metadata/Soybean rust resistant and tolerant varieties identified through the Pan African trials.pdf">
-    <img src="figures/pub2.png" alt="Publication 2" width="180" style="margin-right: 10px;"/>
+  <a href="metadata/publication2.pdf">
+    <img src="figures/pub2.png" alt="Publication 2" width="180"/>
   </a>
-  <a href="metadata/Optimizing soybean variety selection for the Pan African Trial network using GxE models.pdf">
-    <img src="figures/pub3.png" alt="Publication 3" width="180" style="margin-right: 10px;"/>
+  <a href="metadata/publication3.pdf">
+    <img src="figures/pub3.png" alt="Publication 3" width="180"/>
   </a>
-  <a href="metadata/Implementation of a Generalized Additive Model (GAM) for Soybean Maturity modeling.pdf">
+  <a href="metadata/publication4.pdf">
     <img src="figures/pub4.png" alt="Publication 4" width="180"/>
   </a>
-</div>
+</p>
 
 ---
 
