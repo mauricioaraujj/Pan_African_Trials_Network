@@ -1,4 +1,4 @@
-# Pan_African_Trials_Network 🌍🌱  
+# Pan African Trials Network 🌍🌱  
 **High-resolution soybean trial data supporting the expansion of agriculture in Africa**
 
 ![badges](https://img.shields.io/badge/Scientific-Data-blue) 
