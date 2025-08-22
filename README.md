@@ -39,7 +39,7 @@ This repository contains a comprehensive dataset and full analysis pipeline for 
 
 The figure below summarizes the core pipeline, from trials to prediction and recommendation:
 
-![Overview](figures/fig.jpg)
+![Overview](https://github.com/mauricioaraujj/Pan_African_Trials_Network/blob/main/figures/Map.jpg?raw=true)
 
 ---
 
