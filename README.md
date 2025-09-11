@@ -88,6 +88,9 @@ Includes R scripts to run and reproduce the analysis:
 
 Below are scientific publications **originated from the Pan-African soybean trials dataset**:
 
+- [📄 Soybean selection in Kenya enhanced by multi-trait and genotype-by-environment interaction modeling](https://doi.org/10.1038/s41598-025-10654-2)  
+  *Scientific Reports (2025)*
+  
 - [📄 Optimizing soybean variety selection for the Pan African Trial network using G×E models](https://doi.org/10.3389/fpls.2025.1594736)  
   *Frontiers in Plant Science (2025)*
 
