@@ -1,4 +1,4 @@
-# Pan African Trials Network 🌍🌱  
+# Pan African Trials Network 🌍 
 **High-resolution soybean trial data supporting the expansion of agriculture in Africa**
 
 ![badges](https://img.shields.io/badge/Scientific-Data-blue) 
@@ -9,7 +9,7 @@
 
 ---
 
-## 👩‍🔬 Authors
+## Authors
 
 Mauricio S. Araújo¹\*, Saulo F.S. Chaves², Gerson N.C. Ferreira¹, Godfree Chigeza³, Brian W. Diers⁴, Erica P. Leles⁴, Michelle F. Santos⁴, Peter Goldsmith⁴, José B. Pinheiro¹\*  
 
@@ -18,11 +18,11 @@ Mauricio S. Araújo¹\*, Saulo F.S. Chaves², Gerson N.C. Ferreira¹, Godfree Ch
 ³ Feed the Future Innovation Lab, University of Illinois Urbana-Champaign, United States Agency for International Development (USAID), Washington, DC, United States  
 ⁴ Department of Crop Sciences, University of Illinois at Urbana-Champaign, Urbana, 61801, USA  
 
-📧 *mauricioaraujj@usp.br and jbaldin@usp.br*
+*mauricioaraujj@usp.br and jbaldin@usp.br*
 
 ---
 
-## 🧭 Project Overview
+## Project Overview
 
 This repository contains a comprehensive dataset and full analysis pipeline for understanding soybean cultivar responses to diverse African agroecologies using multi-environment trials (METs) from 2015 to 2024/25.
 
@@ -35,7 +35,7 @@ This repository contains a comprehensive dataset and full analysis pipeline for 
 
 ---
 
-## 🗺️ Graphical Overview
+## Graphical Overview
 
 The figure below summarizes the core pipeline, from trials to prediction and recommendation:
 
@@ -43,7 +43,7 @@ The figure below summarizes the core pipeline, from trials to prediction and rec
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 | Folder/File       | Description |
 |-------------------|-------------|
@@ -58,7 +58,7 @@ The figure below summarizes the core pipeline, from trials to prediction and rec
 
 ---
 
-## 🧬 Scripts
+## Scripts
 
 > **Directory:** [`/scripts`](./scripts)
 
@@ -70,7 +70,7 @@ Includes R scripts to run and reproduce the analysis:
 
 ---
 
-## 📊 Data Summary
+## Data Summary
 
 > **Directory:** [`/data`](./data)
 
@@ -82,7 +82,7 @@ Includes R scripts to run and reproduce the analysis:
 
 ---
 
-## 📚 Previous Publications
+## Previous Publications
 
 > **Directory:** [`/metadata`](./metadata)
 
@@ -106,16 +106,16 @@ Below are scientific publications **originated from the Pan-African soybean tria
 
 ---
 
-## 📘 Citation
+## Citation
 
 > Araújo, M.S., Chaves, S.F.S., Ferreira, G.N.C., Chigeza, G., Diers, B.W., Leles, E.P., Santos, M.F., Goldsmith, P., Pinheiro, J.B. **High-resolution soybean trial data supporting the expansion of agriculture in Africa** (2025)
 
 ---
 
-## 📬 Contact
+## Contact
 
 Have questions, want to collaborate, or found a bug?  
 Feel free to contact:
 
-📧 *mauricioaraujj@usp.br*  
-📧 *jbaldin@usp.br*
+*mauricioaraujj@usp.br*  
+*jbaldin@usp.br*
