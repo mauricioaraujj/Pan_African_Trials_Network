@@ -89,10 +89,10 @@ Includes R scripts to run and reproduce the analysis:
 Below are scientific publications **originated from the Pan-African soybean trials dataset**:
 
 
-- [📄 Leveraging probabilistic models to enhance soybean cultivar recommendation in Zimbabwe](https://doi.org/10.1186/s12870-026-08253-y))  
+- [📄 Leveraging probabilistic models to enhance soybean cultivar recommendation in Zimbabwe](https://doi.org/10.1186/s12870-026-08253-y)  
   *BMC Plant Biology (2026)*
 
-- [📄 Envirotyping-driven strategies to enhance soybean adaptation across Southern Africa] (https://doi.org/10.1038/s41598-026-48028-x)  
+- [📄 Envirotyping-driven strategies to enhance soybean adaptation across Southern Africa](https://doi.org/10.1038/s41598-026-48028-x)  
   *Scientific Reports (2026)*
 
 - [📄 Boosting soybean adaptation in Africa through multi-trait selection in multi-environment trials](http://dx.doi.org/10.1590/198470332026v26n1a8)  
